@@ -1,8 +1,9 @@
 # Instructions PDF files 
 *.pdf
-
 # Output files
 .out
+# Vscode files
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
